@@ -9,7 +9,7 @@ const about = {
   name: 'Yujun Zhou',
   role: 'Data Scientist',
   description:
-    'Data Scientist and Applied Economist specializing in AI/ML, leveraging Meta experience in recommendation systems and PhD research in causal inference to lead LLM marketing solutions at Annalect.',
+    'An economist turned tech professional, I have worked on recommendation systems at Instagram and integrity at Facebook. Now at Annalect, I focus on applying LLMs to marketing challenges while pursuing generative AI side projects.',
   social: {
     linkedin: 'https://www.linkedin.com/in/yujun-zhou/',
     github: 'https://github.com/zhou100',
