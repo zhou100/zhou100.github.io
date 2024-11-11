@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import SchoolIcon from '@material-ui/icons/School'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -47,6 +48,18 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
+
+                {social.googlescholar && (
+                  <a
+                    href={social.googlescholar}
+                    aria-label='google-scholar'
+                    className='link link--icon'
+                  >
+                    <SchoolIcon />
+                  </a>
+                )}
+
+
           </>
         )}
       </div>
